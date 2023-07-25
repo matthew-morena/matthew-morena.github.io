@@ -23,9 +23,12 @@ Education
 ======
 * Ph.D in Applied Mathematics, University of New Hampshire, 2014
   * Advisor: Kevin Short
-* M.A. in Mathematics, University of Virginia, 2009 
+* M.A. in Mathematics, University of Virginia, 2009
+  * Advisors: Kevin McCrimmon, Larry Thomas
 * M.S. in Applied Mathematics, North Carolina State University, 2007
+  * Advisor: John Franke
 * B.S. in Mathematics, Washington and Lee Unviversity, 2005
+  * Advisor: Brendan Weickert
 
 Publications
 ======
