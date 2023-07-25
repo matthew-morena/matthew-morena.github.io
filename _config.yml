@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Matthew Morena"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Christpher Newport University. Applied Mathematics PhD focusing on nonlinear and chaotic dynamical systems"
+  bio              : "Assistant Professor at Christopher Newport University. Applied Mathematics PhD focusing on nonlinear and chaotic dynamical systems"
   location         : "Newport News, VA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=sqrDxk0AAAAJ&hl=en"
+  email            : "matthew.morena@cnu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Matthew-Morena"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/matthew-morena"
+  orcid            : "https://orcid.org/0000-0003-3077-9388"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
