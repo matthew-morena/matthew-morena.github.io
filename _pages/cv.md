@@ -9,32 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* Assistant Professor in the Department of Mathematics at Christopher Newport University
+  * August 2017 - Present
+
+Previous Position
+======
+* Assistant Professor in the Department of Mathematics at Young Harris College
+  * August 2014 - June 2017
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Applied Mathematics, University of New Hampshire, 2014
+  * Advisor: Kevin Short
+* M.A. in Mathematics, University of Virginia, 2009 
+* M.S. in Applied Mathematics, North Carolina State University, 2007
+* B.S. in Mathematics, Washington and Lee Unviversity, 2005
 
 Publications
 ======
@@ -54,6 +45,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Fellowships
 ======
-* Currently signed in to 43 different slack teams
+* Honors Seminar Development Grant, Christopher Newport University, 2021
+* Project NExT Fellow (Red '15), Mathematical Association of America, 2015-2016
+* Dissertation Year Fellowship, University of New Hampshire, 2013-2014
+* Summer Teaching Assistant Fellowship, University of New Hampshire, 2013
+* Dynamics Days Conference Travel Grant, 2013
+* GAANN Fellowship, University of Virginia, 2007-2009
+
+Skills
+======
+* Programming Languages:
+  * Python
+  * Matlab
+  * Mathematica
+* Tools:
+  * LaTeX
+  * Git/GitHub
