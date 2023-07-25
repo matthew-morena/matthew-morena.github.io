@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Current Position
+Employment
 ======
-* Assistant Professor in the Department of Mathematics at Christopher Newport University
+* Assistant Professor, Department of Mathematics, Christopher Newport University
   * August 2017 - Present
+* Assistant Professor, Department of Mathematics, Young Harris College
+  * August 2014 - June 2017
 
 Previous Position
 ======
