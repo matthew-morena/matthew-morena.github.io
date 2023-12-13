@@ -58,7 +58,7 @@ Skills
 ======
 * Programming Languages:
   * Python
-  * Matlab
+  * MATLAB
   * Mathematica
 * Tools:
   * LaTeX
