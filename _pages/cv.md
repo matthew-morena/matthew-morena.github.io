@@ -16,11 +16,6 @@ Employment
 * Assistant Professor, Department of Mathematics, Young Harris College
   * August 2014 - June 2017
 
-Previous Position
-======
-* Assistant Professor in the Department of Mathematics at Young Harris College
-  * August 2014 - June 2017
-
 Education
 ======
 * Ph.D in Applied Mathematics, University of New Hampshire, 2014
