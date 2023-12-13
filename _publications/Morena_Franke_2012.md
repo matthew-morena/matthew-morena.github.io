@@ -3,7 +3,7 @@ title: "Predicting attenuant and resonant 2-cycles in periodically forced discre
 collection: publications
 permalink: /publication/Morena_Franke_2012
 excerpt: 'This paper derives and demonstrates signature functions that predict the responses of two competing populations to periodically-forced six-parameter Logistic, Ricker, Beverton-Holt, and Hassell models.'
-date: 2012
+date: 2012-03-01
 venue: 'Journal of Biological Dynamics'
 paperurl: 'https://doi.org/10.1080/17513758.2012.710338'
 citation: 'Matthew A. Parker <i>and</i> John E. Franke, "Predicting attenuant and resonant 2-cycles in periodically forced discrete-time two-species population models", Journal of Biological Dynamics 6(2), 782-812 (2012)'
