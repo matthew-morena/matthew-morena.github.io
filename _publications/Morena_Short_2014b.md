@@ -2,7 +2,7 @@
 title: "On the Potential for Entangled States Between Chaotic Systems"
 collection: publications
 permalink: /publication/Morena_Short_2014b
-excerpt: 'This paper documents the very first instance of chaotic entanglement ever detected between two chaotic systems from which an analog to quantum entanglement is made.'
+excerpt: 'This paper documents the very first instance of chaotic entanglement ever detected between two chaotic systems and discusses an analogy to quantum entanglement.'
 date: 2014-02-14
 venue: 'International Journal of Bifurcation and Chaos'
 paperurl: 'https://doi.org/10.1142/S0218127414500771'
