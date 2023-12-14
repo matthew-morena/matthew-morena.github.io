@@ -2,7 +2,7 @@
 title: "Controlled transitions between cupolets of chaotic systems"
 collection: publications
 permalink: /publication/Morena_Short_2014a
-excerpt: 'This paper presents an effective algorithm based on algebraic graph for transitioning between the cupolets of chaotic systems.'
+excerpt: 'This paper presents an effective algorithm based on algebraic graph theory for targeting and transitioning between the cupolets of chaotic systems.'
 date: 2014-01-14
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://doi.org/10.1063/1.4862668'
