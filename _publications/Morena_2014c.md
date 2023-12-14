@@ -2,7 +2,7 @@
 title: "Mutual stabilization of chaotic systems through entangled cupolets."
 collection: publications
 permalink: /publication/Morena_2014c
-excerpt: 'Doctoral dissertation. Discusses the existence of mutual stabilization in chaotic neural models, specifically the FitzHugh-Nagumo and Hindmarsh-Rose neural models.'
+excerpt: 'Doctoral dissertation. Discusses new advances in chaotic systems research, notably the mutual stabilization that can arise between pairs of interacting chaotic systems.'
 date: 2014-05-02
 venue: 'ProQuest, Doctoral Dissertation'
 paperurl: 'https://cnu.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/mutual-stabilization-chaotic-systems-through/docview/1548365664/se-2?accountid=10100'
