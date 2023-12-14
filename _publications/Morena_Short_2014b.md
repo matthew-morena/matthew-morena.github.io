@@ -2,7 +2,7 @@
 title: "On the Potential for Entangled States Between Chaotic Systems"
 collection: publications
 permalink: /publication/Morena_Short_2014b
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper documents the first instance of chaotic entanglement between two chaotic systems and in doing so details an analog to quantum entanglement.'
 date: 2014-02-14
 venue: 'International Journal of Bifurcation and Chaos'
 paperurl: 'https://doi.org/10.1142/S0218127414500771'
