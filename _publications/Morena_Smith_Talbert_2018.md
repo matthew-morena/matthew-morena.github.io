@@ -2,7 +2,7 @@
 title: "Video Made the Calculus Star"
 collection: publications
 permalink: /publication/Morena_Smith_Talbert_2018
-excerpt: 'This paper documents the very first instance of chaotic entanglement ever detected between two chaotic systems, from which an analog to quantum entanglement is made.'
+excerpt: 'This paper describes the use of video assignments in undergraduate mathematics courses.'
 date: 2018-07-03
 venue: 'PRIMUS: Problems, Resources, and Issues in Mathematics Undergraduate Studies'
 paperurl: 'https://doi.org/10.1080/10511970.2017.1396568'
