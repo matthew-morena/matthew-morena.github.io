@@ -2,7 +2,7 @@
 title: "Fundamental cupolets of chaotic systems"
 collection: publications
 permalink: /publication/Morena_Short_2020
-excerpt: 'This paper introduces reducibility into the study of cupolets and presents an algorithm that determines whether or not a cupolet can be decomposed into the orbits of simplier cupolets.'
+excerpt: 'This paper introduces reducibility into the study of cupolets and presents an algorithm that determines whether a cupolet can be decomposed into the orbits of simplier cupolets.'
 date: 2020-09-02
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: '[https://doi.org/10.1063/1.4862668](https://doi.org/10.1063/5.0003443)'
