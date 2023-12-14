@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
-======
+### Employment
 * Assistant Professor, Department of Mathematics, Christopher Newport University
   * August 2017 - Present
 * Assistant Professor, Department of Mathematics, Young Harris College
