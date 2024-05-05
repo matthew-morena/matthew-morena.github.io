@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV Matt"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,7 +26,7 @@ redirect_from:
   * Advisor: Brendan Weickert
 
 ### Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
