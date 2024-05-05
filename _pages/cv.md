@@ -49,8 +49,7 @@ redirect_from:
 * Dynamics Days Conference Travel Grant, 2013
 * GAANN Fellowship, University of Virginia, 2007-2009
 
-Skills
-======
+### Skills
 * Programming Languages:
   * Python
   * MATLAB
