@@ -6,7 +6,7 @@ excerpt: 'Doctoral dissertation. Discusses new advances in chaotic systems resea
 date: 2014-05-02
 venue: 'ProQuest, Doctoral Dissertation'
 paperurl: 'https://cnu.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/mutual-stabilization-chaotic-systems-through/docview/1548365664/se-2?accountid=10100'
-citation: 'M. A. Morena, "Mutual stabilization of chaotic systems through entangled cupolets." Order No. 3581216, University of New Hampshire, 2014.'
+citation: '<b>Matthew A. Morena</b>, "Mutual stabilization of chaotic systems through entangled cupolets." Order No. 3581216, University of New Hampshire, 2014.'
 ---
 
 Abstract: Recent experimental and theoretical work has detected signatures of chaotic behavior in nearly every physical science, including quantum entanglement. In some instances, chaos either plays a significant role or, as an underlying presence, explains perplexing observations. There are certain properties of chaotic systems which are consistently encountered and become focal points of the investigations. For instance, chaotic systems typically admit a dense set of unstable periodic orbits around an attractor. These orbits collectively provide a rich source of qualitative information about the associated system and their abundance has been utilized in a variety of applications.
