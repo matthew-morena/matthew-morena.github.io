@@ -2,7 +2,7 @@
 title: "The Euclidean Discus Toss"
 collection: publications
 permalink: /publication/Morena_Smith_2023
-excerpt: 'This paper demonstrates how to model the extended Euclidean algorithm as a frisbee relay.'
+# excerpt: 'This paper demonstrates how to model the extended Euclidean algorithm as a frisbee relay.'
 date: 2023-07-25
 venue: 'PRIMUS: Problems, Resources, and Issues in Mathematics Undergraduate Studies'
 paperurl: 'https://doi.org/10.1080/10511970.2023.2229811'
