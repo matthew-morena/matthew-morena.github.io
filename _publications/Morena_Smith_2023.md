@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "The Euclidean Discus Toss"
 collection: publications
 permalink: /publication/Morena_Smith_2023
