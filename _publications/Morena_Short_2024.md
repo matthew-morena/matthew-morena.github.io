@@ -5,7 +5,7 @@ permalink: /publication/Morena_Short_2024
 excerpt: 'This is a review paper that details the historical development of cupolets and their successful integration into theoretical and computational science.'
 date: 2024-05-13
 venue: 'Dynamics'
-paperurl: '[https://cnu.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/mutual-stabilization-chaotic-systems-through/docview/1548365664/se-2?accountid=10100](https://doi.org/10.3390/dynamics4020022)'
+paperurl: 'https://doi.org/10.3390/e23101254'
 citation: '<b>Matthew A. Morena</b> and Kevin M. Short, "Cupolets: History, Theory, and Applications", Dynamics 4(2), pp 394-424 (2024)'
 ---
 
