@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Employment
+* Associate Professor, Department of Mathematics, Christopher Newport University
+  * May 2024 - Present
 * Assistant Professor, Department of Mathematics, Christopher Newport University
-  * August 2017 - Present
+  * August 2017 - May 2024
 * Assistant Professor, Department of Mathematics, Young Harris College
   * August 2014 - June 2017
 
