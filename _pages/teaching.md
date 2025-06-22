@@ -12,8 +12,12 @@ classes: wide
 * MATH 247: Introduction to Ordinary Differential Equations
 * MATH 447: Advanced Differential Equations
 
+***
+
 ## May 2025
 * MATH 125: Elementary Statistics
+
+***
 
 ## Spring 2025
 * MATH 128: Introduction to Mathematical Programming
