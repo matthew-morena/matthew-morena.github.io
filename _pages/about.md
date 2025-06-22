@@ -24,3 +24,7 @@ In my free time, I like visiting friends and family, traveling and visiting nati
 ## Recent Publications
 
 **Matthew A. Morena** and Kevin M. Short, [Cupolets: Theory and Applications](https://doi.org/10.3390/dynamics4020022), _Dynamics_, 4(2), pp. 394-424 (2024).
+
+## Recent Conferences
+* [Dynamics Days 2025](https://www.ddays.org/2025/), Denver, CO, January 3-5, 2025.
+* [MAA MD-DC-VA Section Meeting](http://sections.maa.org/mddcva/), George Mason University, April 11-12, 2025.
