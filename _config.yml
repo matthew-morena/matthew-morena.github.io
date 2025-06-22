@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Morena, PhD"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Morena"
 description              : &description "Associate Professor at Christopher Newport University"
