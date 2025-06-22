@@ -1,5 +1,5 @@
 ---
-title: "Cupolets: History, Theory, and Applications"
+title: "[Cupolets: History, Theory, and Applications](https://doi.org/10.3390/dynamics4020022)"
 collection: publications
 permalink: /publication/Morena_Short_2024
 # excerpt: 'This is a review paper that details the historical development of cupolets and their successful integration into theoretical and computational science.'
