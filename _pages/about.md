@@ -11,7 +11,9 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am an **Associate Professor of Mathematics** at [Christopher Newport University](https://cnu.edu/), where I teach all levels of the mathematics curriculum, from foundational courses to the more specialized courses. I especially enjoy teaching our Calculus and programming courses because these provide a holistic introduction to applied and computational mathematics. I study applications of nonlinear and chaotic dynamical systems. This typically involves combining dynamical systems theory and mathematical programming with applications in quantum mechanics, mathematical ecology, neuroscience, and differential topology.
+# About Me
+
+I am an **Associate Professor of Mathematics** at [Christopher Newport University](https://cnu.edu/), where I teach all levels of the mathematics curriculum, from foundational courses to the more specialized courses. I especially enjoy teaching our Calculus and programming courses because these provide a holistic introduction to applied and computational mathematics. I study applications of nonlinear and chaotic dynamical systems. This often involves combining dynamical systems theory and mathematical programming in order to examine applications in quantum mechanics, mathematical ecology, neuroscience, and differential topology.
 
 I also enjoy directing student research projects. Recent collaborations have involved chaotic systems, data science and machine learning, fractals, statistics, and ecology.
 
