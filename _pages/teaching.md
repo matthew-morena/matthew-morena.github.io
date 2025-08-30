@@ -7,7 +7,7 @@ layout: single
 classes: wide
 ---
 
-# Here is my current, recent, and future teaching schedule:
+# Here are my recent, current, and future teaching schedules:
 
 ## Spring 2025
 * MATH 128: Introduction to Mathematical Programming
