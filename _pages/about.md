@@ -19,7 +19,7 @@ I also enjoy directing student research projects. Recent collaborations have inv
 
 I completed my graduate work at the [University of New Hampshire](https://www.unh.edu/) and my undergraduate studies from [Washington and Lee University](https://wlu.edu/).  I also earned masters degrees at [NC State](https://www.ncsu.edu/) and at the [University of Virginia](https://www.virginia.edu/).  Before all this, I grew up in [rural upstate New York](https://maps.app.goo.gl/syHKz3q6F2bmhPNL6).
 
-In my free time, I like visiting friends and family, traveling and visiting national parks, hiking and backpacking, going to the beach, and just simply be outside.
+In my free time, I enjoy running, visiting friends and family, traveling and visiting national parks, hiking and backpacking, and going to the beach.
 
 ## Recent Publications
 
