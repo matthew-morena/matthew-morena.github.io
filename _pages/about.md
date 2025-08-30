@@ -23,7 +23,8 @@ In my free time, I like visiting friends and family, traveling and visiting nati
 
 ## Recent Publications
 
-**Matthew A. Morena** and Kevin M. Short, [Cupolets: Theory and Applications](https://doi.org/10.3390/dynamics4020022), _Dynamics_, 4(2), pp. 394-424 (2024).
+* **Matthew A. Morena** and Kevin M. Short, [Cupolets: Theory and Applications](https://doi.org/10.3390/dynamics4020022), _Dynamics_, 4(2), pp. 394-424 (2024).
+* **Matthew A. Morena** and Michael D. Smith, [The Euclidean Discus Toss](https://doi.org/10.1080/10511970.2023.2229811), PRIMUS, 33(10), pp. 1071–1090 (2023).
 
 ## Recent Conferences
 * [Dynamics Days 2025](https://www.ddays.org/2025/), Denver, CO, January 3-5, 2025.
