@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "About Me"
-    url: /about/
+  # - title: "About Me"
+  #   url: /about/
     
   - title: "Talks"
     url: /talks/    
