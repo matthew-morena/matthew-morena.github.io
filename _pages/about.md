@@ -17,6 +17,10 @@ I am an **Associate Professor of Mathematics** at [Christopher Newport Universit
 
 I also enjoy directing student research projects. Recent collaborations have involved chaotic systems, data science and machine learning, fractals, statistics, and ecology.
 
+<!-- PLACEHOLDER: mention the Haimo Award here (or wherever it fits best in the bio above). -->
+
+<!-- PLACEHOLDER: brief skills highlight — a sentence or two, optionally linking to /skills/ once that page has real content. -->
+
 ## Background
 
 I completed my graduate work at the [University of New Hampshire](https://www.unh.edu/) and my undergraduate studies from [Washington and Lee University](https://wlu.edu/).  In between, I also earned masters degrees at [NC State](https://www.ncsu.edu/) and at the [University of Virginia](https://www.virginia.edu/).  Before all this, I grew up in [rural upstate New York](https://maps.app.goo.gl/syHKz3q6F2bmhPNL6).
@@ -29,6 +33,7 @@ In my free time, I enjoy running, visiting friends and family, traveling and vis
 * **Matthew A. Morena** and Michael D. Smith, [The Euclidean Discus Toss](https://doi.org/10.1080/10511970.2023.2229811), PRIMUS, 33(10), pp. 1071–1090 (2023).
 
 ## Recent and Upcoming Activities
+<!-- PLACEHOLDER: add new entries here, newest first. -->
 * [MAA MD-DC-VA Section Meeting](http://sections.maa.org/mddcva/), George Mason University, April 2025.
 * McGraw Hill Math Symposium, Scottsdale, AZ, March 2025.
 * [Dynamics Days 2025 Conference](https://www.ddays.org/2025/), Denver, CO, January 2025.

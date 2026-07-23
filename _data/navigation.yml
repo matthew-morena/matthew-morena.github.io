@@ -12,14 +12,11 @@ main:
   # - title: "Organization"
   #   url: /organization/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+  # - title: "Skills & Experience"
+  #   url: /skills/
+
+  # - title: "Projects"
+  #   url: /projects/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
