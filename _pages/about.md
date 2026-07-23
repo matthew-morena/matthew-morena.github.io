@@ -34,6 +34,8 @@ In my free time, I enjoy running, visiting friends and family, traveling and vis
 
 ## Recent and Upcoming Activities
 <!-- PLACEHOLDER: add new entries here, newest first. -->
+* [MAA MathFest 2026](https://maa.org/event/mathfest/), Boston, MA, August 2026.
+* [SIAM ED26](https://www.siam.org/conferences-events/siam-conferences/ed26/), Cleveland, OH, June 2026.
 * [MAA MD-DC-VA Section Meeting](http://sections.maa.org/mddcva/), George Mason University, April 2025.
 * McGraw Hill Math Symposium, Scottsdale, AZ, March 2025.
 * [Dynamics Days 2025 Conference](https://www.ddays.org/2025/), Denver, CO, January 2025.
