@@ -15,8 +15,8 @@ main:
   # - title: "Organization"
   #   url: /organization/
 
-  # - title: "Skills & Experience"
-  #   url: /skills/
+  - title: "Skills & Experience"
+    url: /skills/
 
   # - title: "Projects"
   #   url: /projects/

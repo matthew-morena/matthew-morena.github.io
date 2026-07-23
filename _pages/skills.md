@@ -1,40 +1,31 @@
 ---
 permalink: /skills/
-title: "Skills & Experience"
-excerpt: "Skills & Experience"
+title: "Skills and Expertise"
 author_profile: true
 layout: single
 classes: wide
 ---
 
-<!--
-TEMPLATE PAGE — fill in each section below, then delete the example bullets.
-When ready, uncomment the "Skills & Experience" entry in _data/navigation.yml.
+# Skills and Expertise
 
 ## Research Expertise
 
-* Nonlinear and chaotic dynamical systems
-* Applications to quantum mechanics, mathematical ecology, and neuroscience
+Nonlinear and chaotic dynamical systems, periodic orbit theory, cupolets and mutual stabilization in coupled systems, computational neuroscience, and applications to quantum mechanics and biological systems.
 
 ## Technical Skills
 
-* **Languages/Tools:** Python, MATLAB, LaTeX, Git/GitHub
-* **Other:** Data visualization, numerical simulation
+**Programming and Data:** Python (pandas, NumPy, scikit-learn, Matplotlib, seaborn), MATLAB, Mathematica, C/C++, Git/GitHub
 
-## Program Design & Curriculum
+**Scientific Computing:** Jupyter notebooks, LaTeX, numerical simulation, data visualization, statistical analysis
 
-* Designed HONR 310: Fractals and Infinity, an honors seminar combining
-  computational exploration with classical fractal geometry
-* Redesigned MATH 128 (Introduction to Mathematical Programming) to emphasize
-  reproducible, project-based assignments
+## Program Design and Curriculum
+
+Directed the design and development of Christopher Newport University's Data Science major, a cross-disciplinary program spanning mathematics, computer science, and statistics. Designed and taught HONR 310: Fractals and Infinity and Advanced Differential Equations. Currently developing AI and machine learning literacy modules for the undergraduate mathematics curriculum, integrating hands-on data analysis and ethical reasoning into calculus, linear algebra, differential equations, and mathematical modeling courses.
 
 ## Community Engagement
 
-* Project NExT Fellow (Red '15), Mathematical Association of America
-* Judge, [local/regional event name], [year]
+Virginia Living Museum: developing fractals-and-patterns-in-nature outreach program for K-12 and general audiences. Referee for Chaos: An Interdisciplinary Journal of Nonlinear Science. Reviewer for Mathematical Reviews and NSF.
 
 ## Reproducible Workflows
 
-* Maintain course materials and research code in version-controlled repositories
-* Use Jupyter notebooks / literate programming for reproducible analysis
--->
+Maintain research and instructional materials in version-controlled repositories with clear documentation. Practice literate programming through Jupyter notebooks and self-contained labs that prioritize clarity and reusability for both pedagogical and research applications.
