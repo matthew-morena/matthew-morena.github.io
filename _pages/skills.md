@@ -22,7 +22,7 @@ Design and deliver courses across the mathematics curriculum from introductory t
 
 ## Program Design and Curriculum
 
-Directed the design and development of CNU's Data Science major and the Actuarial Science certificate program (pending SCHEV approval), both cross-disciplinary initiatives spanning mathematics, computer science, and statistics. Designed and taught HONR 310: Fractals and Infinity, an honors seminar bridging computational exploration and classical fractal geometry. Led a departmental overhaul of the differential equations course sequence to modernize content and pedagogy. Currently teaching MATH 447: Advanced Differential Equations with a unit on machine learning prediction applied to chaotic systems, demonstrating how long-term behavior in nonlinear dynamics connects to contemporary data-driven methods.
+Directed the design and development of CNU's Data Science major and the Actuarial Science certificate program (pending SCHEV approval). Both are cross-disciplinary initiatives spanning mathematics, computer science, and statistics. Designed and taught HONR 310: Fractals and Infinity, an honors seminar bridging computational exploration and classical fractal geometry. Led a departmental overhaul of the differential equations course sequence to modernize content and pedagogy. Currently teaching MATH 447: Advanced Differential Equations with a unit on machine learning prediction applied to chaotic systems, demonstrating how long-term behavior in nonlinear dynamics connects to contemporary data-driven methods.
 
 ## Community Engagement
 
