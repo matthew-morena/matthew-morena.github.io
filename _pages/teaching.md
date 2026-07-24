@@ -9,20 +9,31 @@ classes: wide
 
 # Here is my current, recent, and future teaching schedule:
 
-## Spring 2025
+## Fall 2026
+
+* MATH 140: Calculus I
+* MATH 235: Applied Matrix Techniques
+* MATH 447: Advanced Differential Equations
+
+## May 2026
+
+* MATH 125: Elementary Statistics
+  
+## Spring 2026
+
 * MATH 128: Introduction to Mathematical Programming
-* MATH 395: BIG (Business, Industry, and Government) Experiences in Mathematics
-* HONR 310: Fractals and Infinity
+* MATH 347: Intermediate Differential Equations
+* MATH 440: Mathematical Modeling
 
 ## Fall 2025
+
 * MATH 235: Applied Matrix Techniques
 * MATH 247: Introduction to Ordinary Differential Equations
 * MATH 447: Advanced Differential Equations
 
-## Spring 2026
-* MATH 128: Introduction to Mathematical Programming
-* MATH 347: Intermediate Differential Equations
-* MATH 440: Mathematical Modeling 
+## Spring 2025
 
-## May 2026
-* MATH 125: Elementary Statistics
+* MATH 128: Introduction to Mathematical Programming
+* MATH 395: BIG (Business, Industry, and Government) Experiences in Mathematics
+* HONR 310: Fractals and Infinity
+* 
