@@ -11,15 +11,14 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
+
 # About Me
 
-I am an **Associate Professor of Mathematics** at [Christopher Newport University](https://cnu.edu/), where I teach all levels of the mathematics curriculum, from foundational courses to the more specialized courses. I especially enjoy teaching our Calculus and programming courses because these provide a holistic introduction to applied and computational mathematics. I study applications of nonlinear and chaotic dynamical systems. This often involves combining dynamical systems theory and mathematical programming in order to examine applications in quantum mechanics, mathematical ecology, neuroscience, and differential topology.
+I am an Associate Professor of Mathematics at [Christopher Newport University](https://cnu.edu/), where I teach all levels of the mathematics curriculum, from foundational courses to the more specialized courses. I especially enjoy teaching our Calculus and programming courses because these provide a holistic introduction to applied and computational mathematics. I study applications of nonlinear and chaotic dynamical systems. This often involves combining dynamical systems theory and mathematical programming in order to examine applications in quantum mechanics, mathematical ecology, neuroscience, and differential topology.
 
-I also enjoy directing student research projects. Recent collaborations have involved chaotic systems, data science and machine learning, fractals, statistics, and ecology.
+In 2026, I received the [Deborah and Franklin Tepper Haimo Award for Distinguished College or University Teaching of Mathematics](https://maa.org/deborah-and-franklin-tepper-haimo-award-for-distinguished-college-or-university-teaching-of-mathematics/) from the Mathematical Association of America, recognizing excellence in undergraduate mathematics teaching.
 
-<!-- PLACEHOLDER: mention the Haimo Award here (or wherever it fits best in the bio above). -->
-
-<!-- PLACEHOLDER: brief skills highlight — a sentence or two, optionally linking to /skills/ once that page has real content. -->
+I also enjoy directing student research projects. My work spans research in chaotic dynamical systems, curriculum design, community-engaged learning, and applications of machine learning to undergraduate mathematics. For a detailed overview of research expertise, technical skills, and pedagogical work, see [Skills and Experience](/skills/).
 
 ## Background
 
@@ -36,7 +35,3 @@ In my free time, I enjoy running, visiting friends and family, traveling and vis
 <!-- PLACEHOLDER: add new entries here, newest first. -->
 * [MAA MathFest 2026](https://maa.org/event/mathfest/), Boston, MA, August 2026.
 * [SIAM ED26](https://www.siam.org/conferences-events/siam-conferences/ed26/), Cleveland, OH, June 2026.
-* [MAA MD-DC-VA Section Meeting](http://sections.maa.org/mddcva/), George Mason University, April 2025.
-* McGraw Hill Math Symposium, Scottsdale, AZ, March 2025.
-* [Dynamics Days 2025 Conference](https://www.ddays.org/2025/), Denver, CO, January 2025.
-* [SIGCSE TS 2024](https://sigcse2024.sigcse.org/), Portland, OR, March 2024.
