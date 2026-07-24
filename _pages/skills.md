@@ -10,6 +10,10 @@ classes: wide
 
 Nonlinear and chaotic dynamical systems, periodic orbit theory, cupolets and mutual stabilization in coupled systems, computational neuroscience, and applications to quantum mechanics and biological systems.
 
+## Teaching Expertise
+
+Design and deliver courses across the mathematics curriculum from introductory through advanced levels, emphasizing active learning, student research, and conceptual understanding. Mentor students at multiple levels: undergraduates in independent research, high school researchers through CC-STEM, and faculty collaborating on curriculum modernization.
+
 ## Technical Skills
 
 **Programming and Data:** Python (pandas, NumPy, scikit-learn, Matplotlib, seaborn), MATLAB, Mathematica, Git/GitHub
@@ -22,7 +26,7 @@ Directed the design and development of CNU's Data Science major and the Actuaria
 
 ## Community Engagement
 
-Design and teach MATH 395: BIG (Business, Industry, and Government) Mathematics, a community-engaged learning course in which student teams partner reciprocally with local nonprofits and organizations on semester-long initiatives. Currently collaborating with Lynnhaven River NOW on water quality data analysis and mentoring undergraduate researchers through the collaboration. Developing fractals-and-patterns-in-nature outreach program with the Virginia Living Museum for K-12 and general audiences. These initiatives demonstrate the ability to translate research expertise into community impact, manage long-term partnerships with external organizations, and mentor students in meaningful, real-world contexts.
+Design and teach MATH 395: BIG (Business, Industry, and Government) Mathematics, a community-engaged learning course in which student teams partner reciprocally with local nonprofits and organizations on semester-long initiatives. Currently collaborating with Lynnhaven River NOW on water quality data analysis, mentoring high school and undergraduate researchers through the partnership, including the inaugural math component of [CNU's CC-STEM program](https://cnu.edu/news/2024/09/06-cnu-community-captains-stem/). Developing fractals-and-patterns-in-nature outreach program with the Virginia Living Museum for K-12 and general audiences.
 
 ## Reproducible Workflows
 
