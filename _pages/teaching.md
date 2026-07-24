@@ -36,4 +36,3 @@ classes: wide
 * MATH 128: Introduction to Mathematical Programming
 * MATH 395: BIG (Business, Industry, and Government) Experiences in Mathematics
 * HONR 310: Fractals and Infinity
-* 
