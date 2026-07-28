@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+.archive__item {
+  margin-bottom: 1em;
+}
+</style>
+
 Please feel free to reach out about any of the following talks or presentations.
 
 {% if author.googlescholar %}
