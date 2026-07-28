@@ -32,6 +32,12 @@
       {% endif %}
     </h2>
 
+    {% if post.collection == 'talks' %}
+    <p class="page__meta">
+      <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | {{ post.venue }} | {{ post.location }}
+    </p>
+    {% endif %}
+
     {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
     <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -86,7 +92,7 @@
         </div>
       </a>
     </p>
-    {% elsif post.excerpt and site.read_more != 'enabled' %}
+    {% elsif post.excerpt and post.collection != 'talks' and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">
