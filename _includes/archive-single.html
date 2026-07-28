@@ -33,7 +33,7 @@
     </h2>
 
     {% if post.collection == 'talks' %}
-    <p class="page__meta">
+    <p class="page__meta" style="color: black;">
       <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | {{ post.venue }} | {{ post.location }}
     </p>
     {% endif %}
