@@ -7,7 +7,8 @@ author_profile: true
 
 <style>
 .archive__item {
-  margin-bottom: 0em;
+  margin: 0 !important;
+  padding: 0.25em 0 !important;
 }
 </style>
 
