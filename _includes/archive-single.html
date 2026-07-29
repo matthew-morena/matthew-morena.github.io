@@ -58,7 +58,7 @@
     {% endif %}
     {% elsif post.collection == 'talks' %}
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description"><i class="fa fa-fw fa-comment" aria-hidden="true"></i> {{ post.excerpt | markdownify }}</p>
     {% endif %}
 
     <!-- citation and icon code -->
