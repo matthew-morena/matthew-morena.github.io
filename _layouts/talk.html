@@ -31,7 +31,7 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         {% if page.date %}
-          <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time> | {{ page.venue }} | {{ page.location }}</p>
+        <p class="page__meta" style="font-size: 1em; color: #333;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time> | {{ page.venue }} | {{ page.location }}</p>
         {% endif %}
         {% if page.abstract %}
           <details style="margin: 0.5em 0;">

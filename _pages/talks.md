@@ -5,19 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-<style>
-.archive__item {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-  border-bottom: 1px solid #e5e5e5;
-  padding-top: 1em !important;
-}
-
-.archive__item:first-child {
-  padding-top: 0 !important;
-}
-</style>
-
 Please feel free to reach out about any of the following talks or presentations.
 
 {% if author.googlescholar %}
