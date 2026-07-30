@@ -18,8 +18,15 @@ author_profile: true
 .archive__item-excerpt {
   font-size: 1em;
   color: #333;
-  margin-top: 0.3em;
+  margin-top: 0em;
   margin-bottom: 0;
+  margin-left: 0;
+  padding-left: 0;
+  display: inline;
+}
+
+.archive__item-excerpt i {
+  margin-right: 0.3em;
 }
 </style>
 
