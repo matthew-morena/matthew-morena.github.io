@@ -12,7 +12,7 @@ Nonlinear and chaotic dynamical systems, periodic orbit theory, cupolets and mut
 
 ## Teaching Expertise
 
-Design and deliver courses across the mathematics curriculum from introductory through advanced levels, emphasizing active learning, student research, and conceptual understanding. Mentor students at multiple levels: undergraduates in independent research, high school researchers through CC-STEM, and faculty collaborating on curriculum modernization.
+Design and teach courses across the mathematics curriculum from introductory through advanced levels, emphasizing active learning, student research, and conceptual understanding. Mentor students at multiple levels: undergraduates in independent research, high school researchers through CC-STEM, and faculty collaborating on curriculum modernization.
 
 ## Technical Skills
 
@@ -22,11 +22,11 @@ Design and deliver courses across the mathematics curriculum from introductory t
 
 ## Program Design and Curriculum
 
-Directed the design and development of CNU's Data Science major and the Actuarial Science certificate program (pending SCHEV approval). Both are cross-disciplinary initiatives spanning mathematics, computer science, and statistics. Designed and taught HONR 310: Fractals and Infinity, an honors seminar bridging computational exploration and classical fractal geometry. Led a departmental overhaul of the differential equations course sequence to modernize content and pedagogy. Currently teaching MATH 447: Advanced Differential Equations with a unit on machine learning prediction applied to chaotic systems, demonstrating how long-term behavior in nonlinear dynamics connects to contemporary data-driven methods.
+Directed the design and development of CNU's Data Science major and the Actuarial Science certificate program (pending SCHEV approval). Both are cross-disciplinary initiatives spanning mathematics, computer science, and statistics. Designed and taught HONR 310: Fractals and Infinity, an honors seminar bridging computational exploration and classical fractal geometry. Led a departmental overhaul of the differential equations course sequence to modernize content and pedagogy. Modernized MATH 447: Advanced Differential Equations with units on machine learning prediction techniques applied to chaotic systems.
 
 ## Community Engagement
 
-Design and teach MATH 395: BIG (Business, Industry, and Government) Mathematics, a community-engaged learning course in which student teams partner reciprocally with local nonprofits and organizations on semester-long initiatives. Currently collaborating with Lynnhaven River NOW on water quality data analysis, mentoring high school and undergraduate researchers through the partnership, including the inaugural math component of [CNU's CC-STEM program](https://cnu.edu/news/2024/09/06-cnu-community-captains-stem/). Developing fractals-and-patterns-in-nature outreach program with the Virginia Living Museum for K-12 and general audiences.
+Design and teach MATH 395: BIG (Business, Industry, and Government) Mathematics, a community-engaged learning course in which student teams partner reciprocally with local nonprofits and organizations on semester-long initiatives. Collaborating with Lynnhaven River NOW on water quality data analysis, mentoring high school and undergraduate researchers through the partnership, including the inaugural math cohort of [CNU's CC-STEM program](https://cnu.edu/news/2024/09/06-cnu-community-captains-stem/). Developing fractals-and-patterns-in-nature outreach program with the Virginia Living Museum for K-12 and general audiences.
 
 ## Reproducible Workflows
 
