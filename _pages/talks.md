@@ -5,6 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+.page__meta {
+  font-size: 0.95em;
+  color: #333;
+  margin: 0.2em 0;
+}
+
+.archive__item-excerpt {
+  font-size: 0.95em;
+  color: #333;
+  margin: 0.2em 0;
+}
+</style>
+
 Please feel free to reach out about any of the following talks or presentations.
 
 {% if author.googlescholar %}
